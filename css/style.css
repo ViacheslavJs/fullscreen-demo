@@ -436,7 +436,7 @@ footer {
   padding: 5px;
   text-align: left;
   color: gray;
-  letter-spacing: 0px;
+  /*letter-spacing: 0px;*/
   line-height: 1.8;
   font-size: 1.6rem;
 }
@@ -503,7 +503,7 @@ footer {
   padding: 5px;
   text-align: left;
   color: gray;
-  letter-spacing: 0px;
+  /*letter-spacing: 0px;*/
   line-height: 1.8;
   font-size: 1.1rem;
 }
@@ -511,7 +511,7 @@ footer {
 .description__info-note {
   margin: 15px 0;
   padding: 5px;
-  letter-spacing: 0px;
+  /*letter-spacing: 0px;*/
   line-height: 1.8;
   font-size: 1.1rem;
   font-weight: bold;
@@ -538,7 +538,7 @@ footer {
   padding: 5px 1em;
   text-align: left;
   color: gray;
-  letter-spacing: 0px;
+  /*letter-spacing: 0px;*/
   line-height: 1.8;
   font-size: 1.1rem;
   position: relative;
@@ -596,7 +596,7 @@ footer {
   padding: 5px;
   text-align: left;
   color: #fff;
-  letter-spacing: 0px;
+  /*letter-spacing: 0px;*/
   line-height: 1.8;
   font-size: 1.1rem;
 }
